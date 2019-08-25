@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">namecard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_createcard">MainActivity</string>
+    <string name="title_activity_my_card">MainActivity</string>
+    <string name="title_activity_save_namecard">MainActivity</string>
+    <string name="title_activity_test_main">MainActivity</string>
+    <string name="title_activity_send">MainActivity</string>
+    <string name="title_activity_nfc_main">MainActivity</string>
+    <string name="title_activity_edit_card">EditCardActivity</string>
+    <string name="title_activity_choise_send">ChoiseSendActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_friends_card">FriendsCard</string>
+
+</resources>
